@@ -5,7 +5,7 @@ const jsonServer =  require('json-server')
 const rBuilderServer=jsonServer.create()
 
 // tell json server to use dataBase.json as its data source
-const router=jsonServer.router('dataBase.json')
+const router=jsonServer.router('db.json')
 
 //add useful middleware -cors,  logging etc
 const middleware = jsonServer.defaults()
