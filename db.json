@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "esteer",
+      "mark": "89",
+      "id": 2
+    },
+    {
+      "name": "ty",
+      "mark": "55",
+      "id": 3
+    },
+    {
+      "name": "saa",
+      "mark": "75",
+      "id": 4
+    },
+    {
+      "name": "sdfgh",
+      "mark": "75",
+      "id": 5
+    },
+    {
+      "name": "noyal",
+      "mark": "67",
+      "id": 6
+    },
+    {
+      "name": "ijwjq",
+      "mark": "23",
+      "id": 7
+    },
+    {
+      "name": "ijwjq",
+      "mark": "23",
+      "id": 8
+    }
+  ]
+}
